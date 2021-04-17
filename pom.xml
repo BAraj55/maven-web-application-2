@@ -85,12 +85,12 @@
 	<distributionManagement>
 
 	    <repository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>deployment</name>
 	      <url>http://3.22.57.19:8081/repository/project-1-Release/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>project-1-Snapshot</name>
 	      <url>http://3.22.57.19:8081/repository/project-1-Snapshot/</url>
 	    </snapshotRepository>
